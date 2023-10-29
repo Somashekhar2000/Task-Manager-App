@@ -1,0 +1,6 @@
+Tue Aug 29 22:16:39 IST 2023:----Starting Task Manager----
+Tue Aug 29 22:16:42 IST 2023:----Creating category----
+Tue Aug 29 22:16:49 IST 2023:----Category Created Successfully----
+Tue Aug 29 22:16:51 IST 2023:----Creating task----
+Tue Aug 29 22:17:47 IST 2023:----Task Added Successfully----
+Tue Aug 29 22:17:52 IST 2023:--------Exiting Task Manager--------
